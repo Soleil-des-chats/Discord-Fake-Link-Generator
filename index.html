@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Fake Link Generator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Discord Fake Link Generator</h1>
+            <p class="instruction">Add &lt; and &gt; at the start and end of your link to disable auto embed</p>
+        </header>
+        <main>
+            <form id="link-form">
+                <div class="form-group">
+                    <label for="title">Title</label>
+                    <input type="text" id="title" required>
+                </div>
+                <div class="form-group">
+                    <label for="url">URL</label>
+                    <input type="url" id="url" required>
+                </div>
+                <button type="submit">Generate</button>
+            </form>
+            <div id="output" class="output"></div>
+        </main>
+        <footer>
+            <p class="footer-note">Made with ❤ by Titimousse</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
