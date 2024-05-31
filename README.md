@@ -6,9 +6,11 @@
 It only use three files (and can be combined in one), the page (index.html), the styles (styles.html) and the script who made the output (script.js).
 
 
+
 ## Screenshot
 ### Image of the website :
 <img src="https://github.com/Soleil-des-chats/Discord-Fake-Link-Generator/raw/main/screenshot.png" alt="Screenshot of the website showing the fields completely blank" width="530">
+
 
 
 You can fork it if you want ¯\(°_o)/¯
