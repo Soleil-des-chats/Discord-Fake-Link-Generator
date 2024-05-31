@@ -5,6 +5,6 @@
 
 It only use three files (and can be combined in one), the page (index.html), the styles (styles.html) and the script who made the output (script.js).
 
-![Screenshot of the website showing the fields completly blanks](https://github.com/Soleil-des-chats/Discord-Fake-Link-Generator/blob/main/screenshot.png)
+![Screenshot of the website showing the fields completly blanks](https://github.com/Soleil-des-chats/Discord-Fake-Link-Generator/blob/main/screenshot.png | width=90)
 
 You can fork it if you want ¯\(°_o)/¯
